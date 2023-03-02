@@ -1,2 +1,3 @@
 BTK Git Kursu için örnekler yapılıyor.
 Giriş yazısına ilaveler yapıldı.
+Geliştirmeler yapılacak
